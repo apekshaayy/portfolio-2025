@@ -25,7 +25,7 @@ This is my attemp at making a simple portfolio for myself, using a simple tech s
 
 # Let's Connect
 
-- Instagram: [Posters Dukaan](www.instagram.com/posters_dukaan.nco) |Apekshaa Yadav (me)](www.instagram.com/apekshaayy)
+- Instagram: [Posters Dukaan](www.instagram.com/posters_dukaan.nco) | [Apekshaa Yadav (me)](www.instagram.com/apekshaayy)
 - Email: apekshaayadav5@gmail.com
 - LinkedIn: [Let's Connect](https://www.linkedin.com/in/apekshaa-yadav-80a093350/)
 
