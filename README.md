@@ -3,7 +3,7 @@
 Hey there!
 This is my attemp at making a simple portfolio for myself, using a simple tech stack. Here, I have showcased a few of my personal projects as well as some freelance work did by me. 
 
-[Click here to view] (https://github.com/apekshaayy/portfolio-2025)
+[Click here to view](https://github.com/apekshaayy/portfolio-2025)
 
 # What's Inside?
 
